@@ -87,7 +87,7 @@ Dựa trên nghiên cứu thị trường từ các ứng dụng như Todoist, T
 
 ## 👥 Đội ngũ thực hiện
 Dự án được thực hiện bởi nhóm phát triển DineLex.
-* Nguyễn Thành Lộc - LocNguyenthanhh(https://github.com/LocNguyenthanhh)
-* Nguyễn Đăng Khoa - dagkoa(https://github.com/dagkoa)
-* Huỳnh Thanh Tâm - Thahn-Tam(https://github.com/Thahn-Tam)
-* Nguyễn Đoàn Minh Tâm - mtaamm(https://github.com/mtaamm)
+* Nguyễn Thành Lộc - [LocNguyenthanhh](https://github.com/LocNguyenthanhh)
+* Nguyễn Đăng Khoa - [dagkoa](https://github.com/dagkoa)
+* Huỳnh Thanh Tâm - [Thahn-Tam](https://github.com/Thahn-Tam)
+* Nguyễn Đoàn Minh Tâm - [mtaamm](https://github.com/mtaamm)
